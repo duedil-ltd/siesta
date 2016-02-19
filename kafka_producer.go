@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/jimlawless/cfg"
+	"github.com/ninsen/cfg"
 )
 
 type ProducerRecord struct {
